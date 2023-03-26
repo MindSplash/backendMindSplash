@@ -7,7 +7,8 @@
 {
   "id": "String",
   "firstName": "String",
-  "lastName": "String"
+  "lastName": "String",
+  "login": "String"
 }
 ```
 
