@@ -8,7 +8,17 @@
   "id": "String",
   "firstName": "String",
   "lastName": "String",
-  "login": "String"
+  "login": "String",
+  "tasks": [
+    {
+      "Task"
+    }
+  ],
+  "notes": [
+    {
+      "Note"
+    }
+  ]
 }
 ```
 
